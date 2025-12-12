@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Listor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac9b51dafc901b26c6dc0caea3ef63895a229e50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd73fc7ea7de55a0dd04566136a17e66155ea96f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Listor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Listor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
